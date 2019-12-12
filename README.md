@@ -1,5 +1,7 @@
 # communicatie-technologie
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04fe1515-2927-4b0c-b267-11e662a10bef/deploy-status)](https://app.netlify.com/sites/communicatie-technologie/deploys)
+
 Welcome to your new VuePress course. This is the README file that will display on GitHub. Please feel free to change this information. This file should reflect the content of this course.
 
 ## Development
